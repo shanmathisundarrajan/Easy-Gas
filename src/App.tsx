@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { AnimatePresence } from "framer-motion";
 import "./App.css";
-import logo from "../assets/logos.png"; 
+import logo from "./assets/logos.png"; 
 import Home from "./components/Home";
 import AboutUs from "./components/AboutUs";
 import Services from "./components/Services";
