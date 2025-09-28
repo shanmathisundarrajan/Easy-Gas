@@ -1,0 +1,119 @@
+{
+  "app.title": "SRI DURGA GASES",
+  "home.title":"SRI DURGA GASES",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact"
+  },
+
+  "home": {
+    "welcome": "Welcome to Easy Gas",
+    "subtitle": "Your trusted partner for Industries, businesses, and hospitals ",
+   
+    "forIndustries": {
+      "title": " For Industries",
+      "desc": "Click to book your Industry cylinder with KYC verification"
+    },
+    "forHotels": {
+      "title": " For Hotels & Businesses",
+      "desc": "Bulk gas supply for hotels, restaurants & enterprises"
+    },
+    "forHospitals": {
+      "title": " For Hospitals & Healthcare",
+      "desc": "Medical gases like Oxygen, Nitrogen with urgent delivery"
+    },
+    "tagline": "✨ Easy Gas — Your Comfort, Our Priority 💗"
+  },
+
+  "about": {
+    "title": "About Us",
+    "desc": "We deliver gas cylinders quickly and safely, ensuring convenience and reliability every time."
+  },
+
+  "services": {
+    "title": "Our Services & Safety Guidelines",
+    "list": {
+      "homeDelivery": " Home Delivery of Gas Cylinders",
+      "emergency": " 24/7 Emergency Service",
+      "bulk": " Bulk Supply for Restaurants & Businesses",
+      "medical": " Medical Gas Delivery for Hospitals"
+    },
+    "safety": "Safety Guidelines",
+    "industries": {
+      "title": " For industries",
+      "points": [
+  "Store cylinders upright in a ventilated, safe area away from heat and sparks.",
+  "Regularly inspect regulators, hoses, and pipelines for leaks.",
+  "Turn off valves and regulators when cylinders are not in use.",
+  "Use proper equipment to handle and move cylinders safely.",
+  "Keep fire extinguishers and emergency equipment nearby."
+]
+,
+      "videoTitle": "Safety Video"
+    },
+    "hotels": {
+      "title": " For Hotels & Restaurants",
+      "points": [
+        "Install cylinders in a separate ventilated storage area.",
+        "Train staff on safe handling of LPG.",
+        "Use ISI-marked regulators and pipes.",
+        "Schedule regular inspections and maintenance."
+      ],
+      "videoTitle": " Safety Video"
+    },
+    "hospitals": {
+      "title": " For Hospitals & Healthcare",
+      "points": [
+        "Store medical gases in dedicated rooms.",
+        "Keep oxygen cylinders upright and secured.",
+        "Label cylinders clearly with type and usage.",
+        "Maintain emergency backup supply."
+      ],
+      "videoTitle": " Safety Video"
+    }
+  },
+
+  "contact": {
+    "title": "Contact Us",
+    "name": "Your Name",
+    "phone": "Phone Number",
+    "message": "Your Message",
+    "send": "Send Message"
+  },
+
+  "booking": {
+    "home": { "title": " Book Gas for Home" },
+    "hotel": { "title": " Book Gas for Hotels & Businesses" },
+    "hospital": { "title": " Book Gas for Hospitals & Healthcare" },
+    "phoneLabel": "Phone Number",
+    "bookingType": " Booking Type",
+    "select": "Select",
+    "refill": "Refill",
+    "new": "New Connection",
+    "kycTitle": " KYC Verification",
+    "kycHomeHint": "Please upload your ID proof (Aadhar/PAN).",
+    "kycHotelHint": "Upload business registration & authorized person ID.",
+    "kycHospitalHint": "Upload hospital certificate & staff ID.",
+    "upload": "Upload",
+    "address": " Delivery Address",
+    "qty": " Quantity",
+    "businessPhone": " Business Phone",
+    "hospitalPhone": " Hospital Phone",
+    "gasType": "Select Gas Type",
+    "gasOptions": {
+      "select": "-- Select Gas Type --",
+      "oxygen": "Oxygen",
+      "nitrogen": "Nitrogen",
+      "lpg": "LPG (Kitchen)",
+      "other": "Other"
+    },
+    "emergency": " Emergency Requirement",
+    "confirm": "✅ Confirm Booking",
+    "subtitleHotel": "Bulk cylinder supply for restaurants, catering & enterprises.",
+    "subtitleHospital": "Medical oxygen, nitrogen & LPG delivery with priority service."
+  },
+
+  "footer": "All rights reserved."
+}
