@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { AnimatePresence } from "framer-motion";
 import "./App.css";
-
+import logo from "../assets/logos.png"; 
 import Home from "./components/Home";
 import AboutUs from "./components/AboutUs";
 import Services from "./components/Services";
@@ -45,7 +45,7 @@ function App() {
     <div>
       {/* Header */}
       <header className="header">
-        <img height={100} width={150} src="src/logos.png" alt="Logo" />
+         <img height={100} width={150} src={logo} alt="Logo" />
         <nav>
           <button onClick={() => setActiveSection("home")}>{t("nav.home")}</button>
           <button onClick={() => setActiveSection("about")}>{t("nav.about")}</button>
